@@ -1,13 +1,15 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #949594;
+
 }
 
 #header
 {
 	background: #ccc;
 	padding: 20px;
+	color:#green;
 }
 
 #header h1 { margin: 0; }
@@ -16,7 +18,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #;
 }
 
 #navigation ul
